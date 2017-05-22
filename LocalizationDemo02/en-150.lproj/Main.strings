@@ -1,0 +1,6 @@
+/* Class = "UIButton"; normalTitle = "button-login"; ObjectID = "JGH-Hg-M3H"; Note = "Button on main screen"; */
+"JGH-Hg-M3H.normalTitle" = "en -- Log in";
+
+/* Class = "UILabel"; text = "some-label"; ObjectID = "iFp-1Z-wJS"; Note = "Some label on main screen"; */
+"iFp-1Z-wJS.text" = "en -- Some label";
+
